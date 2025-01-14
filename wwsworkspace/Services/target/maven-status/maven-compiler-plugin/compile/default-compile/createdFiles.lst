@@ -1,0 +1,6 @@
+models\Person.class
+wwsservices\DataAccessObject$1.class
+wwsservices\DataAccessObject.class
+Application.class
+models\Gehaltsdaten.class
+wwsservices\DatabaseConnector.class
